@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Toward Developing a Cloud Computing Model Curriculum
 
-You can use the [editor on GitHub](https://github.com/Annie29/TryOutPages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the initial working area for the ITiCSE 2019 Working Group working to
+create Cloud Computing Resources.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  Working Group Description
 
-### Markdown
+Cloud computing continues to be important in higher education, as it is becoming the common infrastructure for advanced technology. However, finding high-quality curricular materials to teach cloud concepts is an ongoing challenge.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A 2018 Working
+Group created a report  that among other things described fourteen Knowledge Areas (KAs) for teaching cloud concepts. Each of these KAs had numerous Learning Objectives (LOs) included.
+But that report is only the beginning of creating a framework that can both adapt to changes in the field and provide faculty with current resources.
 
-```markdown
-Syntax highlighted code block
+The next working group will respond to both of these issues by expanding on the KAs.  In particular, it will:
 
-# Header 1
-## Header 2
-### Header 3
+* Provide a list of resources that will enable an educator to teach the KA in their context.
+* Survey existing cloud computing courses to find course exemplars of using the KAs, much as is done in Appendix C of~\cite{csc2013}.
+* Survey the current job market and create a mapping of KAs to cloud job titles.
+* Establish a way to add and remove materials from the resources list to ensure they stay current.
+* Create an online repository to hold all of this material. It appears GitHub can provide this functionality, but preliminary WG work will ensure it is workable.
 
-- Bulleted
-- List
+We envision this will ultimately provide a framework similar to that done for NICE, TCPP Curriculum, or CSinParallel.
 
-1. Numbered
-2. List
+We will also entertain the possibility of having a community website for
+hands-on modules that can be easily integrated into curricula, as well as
+building a repository of assignments following the recent nifty/peachy
+assignments model.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## References
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Derek Foster, Laurie White, Joshua Adams, D. Cenk Erdil, Harvey Hyman, Stan Kurkovsky, Majd Sakr, and Lee Stott. 2018. _Cloud computing: developing contemporary computer science curriculum for a cloud-first future_. In Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). ACM, New York, NY, USA, 130-147. DOI: https://doi.org/10.1145/3293881.3295781
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Annie29/TryOutPages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
