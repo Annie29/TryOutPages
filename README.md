@@ -45,14 +45,8 @@ A full list of the Knowlege Areas presented in [1] is on [this page](KUs.md).
 [2] Association for Computing Machinery (ACM) Joint Task Force on Computing Curricula and IEEE Computer Society. 2013. Computer Science Curricula 2013: Curriculum Guidelines for Undergraduate Degree Programs in Computer Science. ACM,
 New York, NY, USA. 999133.
 
-[3] William Newhouse, Stephanie Keith, Benhamin Scribner, and Greg Witte. August
-2017. National Initiative for Cybersecurity Education (NICE), Cybersecurity
+[3] William Newhouse, Stephanie Keith, Benhamin Scribner, and Greg Witte. August 2017. National Initiative for Cybersecurity Education (NICE), Cybersecurity
 Workforce Framework. https://doi.org/10.6028/NIST.SP.800-181
-Sushil K. Prasad, Almadena Chtchelkanova, Frank Dehne, Mohamed Gouda, Joseph
-Jaja, Krishna Kant, Anita La Salle, Richard LeBlanc, Andrew Lumsdaine, David
-Padua, Manish Parashar, Viktor Prasanna, Yves Robert, Arnold Rosenberg, Sartaj
-Sahni, Behrooz Shirazi, Alan Sussman, Chip Weems, and Jie Wu. 2012. NSF/IEEETCPP Curriculum Initiative on Parallel and Distributed Computing - Core Topics
-for Undergraduates, Version I. http://www.cs.gsu.edu/~tcpp/curriculum.
 
 [4] Sushil K. Prasad, Almadena Chtchelkanova, Frank Dehne, Mohamed Gouda, Joseph
 Jaja, Krishna Kant, Anita La Salle, Richard LeBlanc, Andrew Lumsdaine, David
