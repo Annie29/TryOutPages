@@ -32,9 +32,9 @@ The 2019 WG leaders are:
  *  Since this is public
  * Let's not have them out yet.
 
-## The Knowledge Units
+## The Knowledge Areas
 
-A full list of the Knowlege Units presented in [1] is on [this page](KUs.md).
+A full list of the Knowlege Areas presented in [1] is on [this page](KUs.md).
 
 
 ## References
