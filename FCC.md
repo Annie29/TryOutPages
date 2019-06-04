@@ -20,8 +20,7 @@ stacks to meet their business requirements.
 ## Learning Objectives
 
 * Define the cloud computing concept, its history and motivation.
-* Name widely-used cloud-based systems and explain the ad-
-vantages of having the system on the cloud.
+* Name widely-used cloud-based systems and explain the advantages of having the system on the cloud.
 * Define virtualization of computing, storage, and networking
 resources.
 * Explain the differences between leasing versus ownership of
