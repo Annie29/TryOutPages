@@ -29,12 +29,15 @@ assignments model [6].
 ## Participants
 
 The 2019 WG leaders are:
- *  Since this is public
- * Let's not have them out yet.
+ *  [Derek Foster](defoster@lincoln.ac.uk)
+ *  [D. Cenk Urdil](erdild@sacredheart.edu)
+ *  [Laurie White ](lauriewhite@google.com)
+ 
+ Working Group members are:
 
 ## The Knowledge Areas
 
-A full list of the Knowlege Areas presented in [1] is on [this page](KUs.md).
+A full list of the Knowledge Areas presented in [1] is on [this page](KUs.md).
 
 
 ## References
